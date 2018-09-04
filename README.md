@@ -1,4 +1,4 @@
-# Interests
+# Robotics
 [Copyright Crash Course](http://guides.lib.utexas.edu/copyright)
 Syllabus 
 
