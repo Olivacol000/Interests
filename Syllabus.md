@@ -18,7 +18,7 @@ Not all classes are available every year. The courses taught are based on the in
 
 ¹ Satisfies Fine Art Graduation Requirement
 
-![alt text](exy.png "No") I understand
+![alt text](checky.png "yes") I understand
 
 ### Classroom Expectations:
 The Balcony Mac Lab is a district computer lab, and as such has some policies that are set by the district.
@@ -29,7 +29,7 @@ Every student is sitting at a new iMac with 16 gb of ram and a 21.5” screen. A
 
 Specific homework is rarely given. As such, students are expected to be productive from the start of class, until the end. However, you are expected to interact with course content or concepts outside of class.
 
-![alt text](exy.png "No") I understand
+![alt text](checky.png "yes") I understand
 
 ### For class, please consider bringing:
 * Headphones (your personal use)
@@ -40,7 +40,7 @@ Please consider bringing some form of supplies for general class use, such as:
 * Graph Paper
 * Printer Paper
 
-![alt text](exy.png "No") I understand
+![alt text](checky.png "yes") I understand
 
 ### Course Content:
 Students will work with professional software and languages in design and tech courses. The specific software will vary depending on the course.
@@ -82,4 +82,4 @@ All forms of academic dishonesty and cheating are taken seriously. Some forms of
  
 Research, as well as personal experience, shows that students tend to understand content better when working with and discussing content with other students. Some assignments will actually require it. However, it is important that the aid and assistance you receive, or that you provide, is authorized. If you are physically touching another student's keyboard, mouse, or sending complete or partial chunks of an assignment, you are likely engaging in collusion, not collaboration. If unsure, it's better to ask. Collusion is a form of academic dishonesty and can result in loss of credit for all parties involved.
 
-![alt text](exy.png "No") I understand
+![alt text](checky.png "yes") I understand
