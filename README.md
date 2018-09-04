@@ -1,6 +1,6 @@
 # Interests
 [Copyright Crash Course](http://guides.lib.utexas.edu/copyright)
 Syllabus 
-###### Course: §126.40
 
 ## Robotics Programming and Design 
+https://github.com/Olivacol000/Interests/edit/master/Course%20description.md
